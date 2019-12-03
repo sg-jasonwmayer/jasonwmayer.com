@@ -18,4 +18,4 @@ git clone jasonwmayer.com
 cd jasonwmayer.com
 npm install
 ```
-(Note: you should not need to use `sudo` at any point in these instructions.)
+
