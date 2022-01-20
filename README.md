@@ -17,5 +17,3 @@ git clone jasonwmayer.com
 cd jasonwmayer.com
 npm install
 ```
-brew install sh
-
