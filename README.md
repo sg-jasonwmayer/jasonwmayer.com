@@ -18,5 +18,4 @@ git clone jasonwmayer.com
 cd jasonwmayer.com
 npm install
 ```
-jm JM
 
