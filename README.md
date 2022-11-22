@@ -14,4 +14,5 @@ Make sure you have all the necessary [prerequisites](#prerequisites). They are c
 Enter the following commands to start to get started working quickly.
 git clone jasonwmayer.com
 cd jasonwmayer.com
+
 npm install
