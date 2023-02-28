@@ -14,4 +14,3 @@ Enter the following commands to start to get started working quickly.
 git clone jasonwmayer.com
 cd jasonwmayer.com
 ##npm install
-
