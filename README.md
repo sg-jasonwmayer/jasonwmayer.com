@@ -4,7 +4,7 @@ www.jasonwmayer.com
 Contact Us @ (404)234-0831
 jason.mayer@icloud.com
 
-jason w mayer- jasonwmayer.com
+jason w mayer - jasonwmayer.com
 
 
 ##Getting Started
